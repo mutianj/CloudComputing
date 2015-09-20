@@ -9,6 +9,6 @@ Testing data format: <br/>
 `NewDocument1` <br/>
 `NewDocument2`
 
-How to run: <br/>
+Run: <br/>
 `cat train.txt | java NBTrain | java NBTest test.txt` <br/>
 This allows us to process large amount of data without having to hold it all in memory.
