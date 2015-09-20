@@ -1,5 +1,5 @@
 # CloudComputing
-1. NaiveBayes Classifier For News
+### NaiveBayes Classifier For News
 
 Training data format: <br/>
 `Label1[,Label2,Label3...] NewsDocument1` <br/>
