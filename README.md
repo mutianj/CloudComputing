@@ -3,7 +3,8 @@
 
 Training data format: <br/>
 `Label1[,Label2,Label3...] NewsDocument1` <br/>
-`Label1[,Label2,Label3...] NewsDocument2`
+`Label1[,Label2,Label3...] NewsDocument2` <br/>
+One document could have multiple labels.
 
 Testing data format: <br/>
 `NewDocument1` <br/>
