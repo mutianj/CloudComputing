@@ -1,4 +1,5 @@
 Lazy SGD for regularized multinomial logtistic regression
+
 1. Let $k = 0$, and let $A$ and $B$ be empty hashtables. $A$ will record the value of k last time $B[j]$ was updated.
 2. For $t=1,...,T$
 - For each exampel $x_i, y_i$:
