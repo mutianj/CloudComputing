@@ -1,4 +1,4 @@
-# CloudComputing
+# Machine Learing
 ### NaiveBayes Classifier For News
 
 Training data format: <br/>
@@ -13,3 +13,5 @@ Testing data format: <br/>
 Run: <br/>
 `cat train.txt | java NBTrain | java NBTest test.txt` <br/>
 This allows us to process large amount of data without having to hold it all in memory.
+
+### SGD Logistic Regression
